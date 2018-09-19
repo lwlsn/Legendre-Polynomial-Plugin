@@ -8,6 +8,6 @@ The results from the solution to the Helmholtz wave equation in a spherical co-o
 are given as 
 
 
-<img src="https://latex.codecogs.com/gif.latex?P_{n}(x) " />
+- <img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " /> 
 
 
