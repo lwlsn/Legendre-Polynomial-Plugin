@@ -1,4 +1,7 @@
 # Legendre-Polynomial-Plugin
+
+Plugin designed to for Juce. C++ files here can be compiled in the Juce editor to create the plug-in. 
+
 Distortion effect plugin with Legendre Polynomial waveshaping
 
 The results from the solution to the Helmholtz wave equation in a spherical co-ordinate system:
